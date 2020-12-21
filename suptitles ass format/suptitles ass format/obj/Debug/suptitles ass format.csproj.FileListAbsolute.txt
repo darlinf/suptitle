@@ -1,0 +1,7 @@
+C:\Users\JODETE\source\repos\suptitles ass format\suptitles ass format\bin\Debug\suptitles ass format.exe.config
+C:\Users\JODETE\source\repos\suptitles ass format\suptitles ass format\bin\Debug\suptitles ass format.exe
+C:\Users\JODETE\source\repos\suptitles ass format\suptitles ass format\bin\Debug\suptitles ass format.pdb
+C:\Users\JODETE\source\repos\suptitles ass format\suptitles ass format\obj\Debug\suptitles ass format.csprojAssemblyReference.cache
+C:\Users\JODETE\source\repos\suptitles ass format\suptitles ass format\obj\Debug\suptitles ass format.csproj.CoreCompileInputs.cache
+C:\Users\JODETE\source\repos\suptitles ass format\suptitles ass format\obj\Debug\suptitles ass format.exe
+C:\Users\JODETE\source\repos\suptitles ass format\suptitles ass format\obj\Debug\suptitles ass format.pdb

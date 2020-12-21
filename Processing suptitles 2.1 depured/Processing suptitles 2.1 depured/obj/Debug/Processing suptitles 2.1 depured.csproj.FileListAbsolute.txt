@@ -1,0 +1,7 @@
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\Processing suptitles 2.1 depured\bin\Debug\Processing suptitles 2.1 depured.exe.config
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\Processing suptitles 2.1 depured\bin\Debug\Processing suptitles 2.1 depured.exe
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\Processing suptitles 2.1 depured\bin\Debug\Processing suptitles 2.1 depured.pdb
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\Processing suptitles 2.1 depured\obj\Debug\Processing suptitles 2.1 depured.csprojAssemblyReference.cache
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\Processing suptitles 2.1 depured\obj\Debug\Processing suptitles 2.1 depured.csproj.CoreCompileInputs.cache
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\Processing suptitles 2.1 depured\obj\Debug\Processing suptitles 2.1 depured.exe
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\Processing suptitles 2.1 depured\obj\Debug\Processing suptitles 2.1 depured.pdb

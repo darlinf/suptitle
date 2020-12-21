@@ -1,0 +1,17 @@
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\MyLibreryTest.dll
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\MyLibreryTest.pdb
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\obj\Debug\MyLibreryTest.csprojAssemblyReference.cache
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\obj\Debug\MyLibreryTest.csproj.CoreCompileInputs.cache
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\obj\Debug\MyLibreryTest.csproj.CopyComplete
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\obj\Debug\MyLibreryTest.dll
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\obj\Debug\MyLibreryTest.pdb
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\Processing suptitles 2.1 depured.exe
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\Processing suptitles 2.1 depured.pdb
+C:\Users\JODETE\source\repos\Processing suptitles 2.1 depured\MyLibreryTest\bin\Debug\Processing suptitles 2.1 depured.exe.config
